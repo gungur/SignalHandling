@@ -95,7 +95,3 @@ All programs include basic error checking for:
 - **my_div0_handler.c** requires implementation of division by zero handling
 - **send_signal.c** needs to be expanded to parse command-line arguments and actually send signals
 - Consider adding more robust error handling and user feedback
-
-## Contributors
-
-- Sai Gungurthi - Primary developer
